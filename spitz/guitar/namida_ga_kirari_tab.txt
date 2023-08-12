@@ -1,0 +1,112 @@
+
+Namida ga Kirari ("Tears Sparkle")
+by Spitz
+from the album "Hachimitsu"
+transcribed by Robert Goodwin Oct 2001
+
+I tried to represent the bass part as best as I could in this 
+solo arrange of a classic Spitz song.  
+
+
+Intro
+
+Strum these chords:   Dsus4  D     Dadd9  D     Dsus4  D     C  A 
+
+
+Intro End
+E-----------
+B-----------
+G-----------
+D-----------
+A--0--------
+E----3b--(start bending down just before you pluck)
+
+
+Verse ("Mezamete sugu no koumori ga...")
+E--------0----------------0----------------0---------------1-
+B------3----------------3----------------3---------------3---
+G----2----------------1----------------0---------------2-----
+D--0-0------0-0-----2-2-----2-2\---------------------0-0-----
+A----------0-------------------------------------------------
+E------------------------------------3-3-----3-3-------------
+
+Bass Slide
+On the last verse the bass does a big slide at the 
+part "ukande kieru gaikotsu wa..." something like this
+E--------0-----------------0------
+B------3-----------------3--------
+G----2-----------------1----------
+D--0-0------0-0--------------2-2\-
+A----------0----------------------
+E---------------12\1-0-0----------
+
+Verse Ending 1                 Verse Ending 2
+E---------------               E------------
+B---------------               B------------
+G---------------               B------------
+D---0-0-----0---               D---0--------
+A--0----0h2--2--               A--0--0------
+E---------------               E-------4-3--
+
+
+Bridge ("Kimi no kioku no katasumi de...")
+E--------0---------------2----------------0-------
+B--2-----2---------3-----3---------0------0-------
+G--2---------------4---------------0--------------
+D----------------------------------2-2-2----2-2-2-
+A------------------2-2-2---2-2-2------------------
+E--2-2-2---2-2-2----------------------------------
+
+Bridge Ending 1 ("...kimeta kara")
+E--------0---------                     
+B--2-----2---------                     
+G--2---------------                  
+D------------------
+A--0-0-0-----0-----
+E---------------3--
+
+Bridge Ending 2 ("...mitsumeteiru yo")
+E--------0-----------------0-------
+B--2-----2-------------2-----2---2-
+G--2-----------------2---2-----2---
+D------------------2---------------
+A--0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-
+E----------------------------------
+
+
+Chorus ("Onaji namida ga kirari...")             G   A
+E------2-------2-------0-------0-------2-------2-3---0---------
+B----3---3---3---3---2---2---2---2---3---3---3---0---2---------
+G--2-------2-------3-------3-------4-------4-----0---2---------
+D--0-0-0-0-0-0-----------------------------------0---2---------
+A----------------------------0-4-0-2-2-2-2-2-----2---0---2-4-0-
+E--------------0---2-2-2-2-2-----------------2---3-------------
+
+
+Chorus Cap ("Kokoro to kokoro...") G  A                          A7
+E------2-------2-------2---4-----3---0--    ---------------------0--
+B----3---3---3---3---3---3-3-----0---2--    --the second time----2--  
+G--4-------4-------4-------4-----0---2--    --play an A7 chord---0--
+D--4-------4-------4-------4-----0---2--    --instead of an A----2--
+A--2-------1-------0-------------2---0--    ---------------------0--
+E--------------------------------3------    ------------------------
+
+
+Intro End Final 
+
+G   F#   E    
+To be true to the original song, only strum the lower notes of those chords
+
+
+Here is the order:
+
+Intro(Intro End) x 2 -> Verse(Ending 1) -> Verse(Ending 2) ->
+Bridge(Ending 1) -> Bridge(Ending 2) -> Chorus x 2 -> Chorus Cap -> 
+Intro(Intro End) x 2 -> Verse(Ending 1) -> Verse(with Bass Slide and Ending 2) ->
+Bridge(Ending 1) -> Bridge(Ending 2) -> Chorus x 2 -> Chorus Cap(with A7) ->
+Chorus x 2 -> Chorus Cap -> Intro(Intro End) -> Intro(with Intro End Final)
+
+
+Going through the chorus at the end of the song the bass does
+some interesting things that I left out because it'd be too difficult
+to synchronize them with the lead guitar part.  
